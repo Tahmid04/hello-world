@@ -2,4 +2,4 @@
 Testing my first repository.
 I should write something about myself :|
 Is this thing working?
-new 1
+new 2
